@@ -1,5 +1,5 @@
-name: createur-java
-title: CreateUr-Java
+name: createur
+title: CreateUr
 version: 0.1.12
 prerelease: false
 start_page: ROOT:start.adoc
